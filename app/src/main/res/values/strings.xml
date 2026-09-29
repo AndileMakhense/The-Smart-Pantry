@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string name="pantry">Pantry</string>
+    <string name="suggested_recipes">Suggested Recipes</string>
+    <string name="settings">Settings</string>
+</resources>
